@@ -1,3 +1,5 @@
+// 최초 nodejs를 이용한 web server 코드
+
 var http = require('http');  // http 모듈을 가져온다.
 var fs = require('fs');
 var url = require('url'); // 'url' module 사용할 것이다.
