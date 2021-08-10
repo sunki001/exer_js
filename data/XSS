@@ -1,0 +1,5 @@
+<h1>This is script tag by..</h1>
+<script>
+//alert('merong');
+location.href = 'https://opentutorials.org/course/1';
+</script>
